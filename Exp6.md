@@ -18,8 +18,6 @@ This experiment highlights how Sleuth Kit’s utilities help analysts interpret 
 ---
 
 ## Procedure  
-> After each step, add a screenshot:  
-> Example → `![Step 1 Screenshot](images/step1.png)`
 
 ---
 
@@ -30,7 +28,7 @@ Visit official Sleuth Kit website or provided Google Drive link.
 Install using Windows installer.
 
 
-![Step 1 Screenshot](images/step1.png)
+![Step 1 Screenshot]
 
 ---
 
@@ -39,14 +37,14 @@ Download the sample `.E01` evidence files:
 - `4Dell Latitude CPi.E01`  
 - `4Dell Latitude CPi.E02`
 
-![Step 2 Screenshot](images/step2.png)
+![Step 2 Screenshot]
 
 ---
 
 ### 3) (Optional) Mount the Disk Image
 Use OSFMount to mount the image as a virtual drive to view file structure.
 
-![Step 3 Screenshot](images/step3.png)
+![Step 3 Screenshot]
 
 ---
 
@@ -84,13 +82,9 @@ Then generate timeline
 Gather all exported files:
 
 filesystem_info.txt
-
 partitions.txt
-
 file_list.txt
-
 metadata_info.txt
-
 timeline.txt
 
 Analyze the extracted data and prepare a report summarizing the evidence.
