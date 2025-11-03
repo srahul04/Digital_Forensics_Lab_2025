@@ -18,27 +18,27 @@ A higher score increases the probability that steganography is present, making i
 
 ### **1) Install Required Tools**
 1. Download **StegExpose** `.jar` file from its official GitHub repository.
-   > ![Screenshot](path/to/image1)
+
 2. Install **Java Runtime Environment (JRE)** on your system.
-   > ![Screenshot](path/to/image2)
+ 
 3. Place the `.jar` file in a working directory along with target images.
-   > ![Screenshot](path/to/image3)
+   
 
 ---
 
 ### **2) Prepare Images for Analysis**
 1. Collect all suspected images (formats supported: `.png`, `.jpg`, `.bmp`, etc.)
-   > ![Screenshot](path/to/image4)
+  
 
 ---
 
 ### **3) Open Command Line**
 1. Navigate to the directory containing StegExpose `.jar` file.
-   > ![Screenshot](path/to/image5)
+
 2. Open:
    - **Command Prompt** (Windows)  
    - **Terminal** (Linux/MacOS)
-   > ![Screenshot](path/to/image6)
+   
 
 
 ### **4) Run StegExpose on a Single Image**
