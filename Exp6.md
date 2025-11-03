@@ -83,7 +83,7 @@ Gather all exported files:
 
 filesystem_info.txt
 partitions.txt
-file_list.txt
+file_list.txt 
 metadata_info.txt
 timeline.txt
 
