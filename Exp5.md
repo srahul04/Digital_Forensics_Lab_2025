@@ -3,6 +3,8 @@
 ## Aim
 To learn how to use Autopsy, an open-source digital forensics platform, to create a case, import digital evidence, and perform basic forensic analysis.
 
+---
+
 ## Description
 Autopsy is an open-source digital forensics platform used for analyzing and extracting data from digital devices. This lab provides a step-by-step process to perform a basic forensic investigation using Autopsy, including case creation, data source import, analysis, and reporting.
 
@@ -16,7 +18,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 
 ![Autopsy Download Page]
 
----
+
+
 
 ### 2. Starting a New Case
 - Open Autopsy after installation.
@@ -26,7 +29,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 
 ![New Case Setup]
 
----
+
+
 
 ### 3. Adding a Data Source
 - Select the type of data source (e.g., disk image, directory, logical files).
@@ -36,7 +40,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 
 ![Add Data Source]
 
----
+
 
 ### 4. Initial Analysis and Overview
 - Monitor the ingest progress in the lower-left corner.
@@ -44,7 +48,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 
 ![Ingest Progress]
 
----
+
 
 ### 5. Detailed Analysis
 - Use the **Keyword Search** module to search for specific terms.
@@ -54,7 +58,6 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 
 ![Keyword Search]
 
----
 
 ### 6. Reporting
 - Click **Generate Report** from the toolbar.
@@ -63,20 +66,19 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 
 ![Generate Report]
 
----
 
 ### 7. Case Closure
 - Close the case once the investigation is complete.
 - Archive all data and reports as per organizational policies.
 
----
 
 ### 8. Advanced Features (Optional)
 - Add custom ingest modules for specialized analysis.
 - Configure multi-user access for team collaboration.
 
----
 
 ## Result
 
 Successfully created a case in Autopsy, imported and analyzed digital evidence, and generated a forensic report. Gained hands-on experience with key digital forensics workflows including data ingestion, keyword search, timeline analysis, and reporting.
+
+---

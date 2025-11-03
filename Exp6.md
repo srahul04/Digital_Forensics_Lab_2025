@@ -19,7 +19,6 @@ This experiment highlights how Sleuth Kit’s utilities help analysts interpret 
 
 ## Procedure  
 
----
 
 ### 1) Install Sleuth Kit
 Download and install Sleuth Kit from the official website or shared link.
@@ -30,7 +29,6 @@ Install using Windows installer.
 
 ![Step 1 Screenshot]
 
----
 
 ### 2) Acquire / Download Disk Image
 Download the sample `.E01` evidence files:  
@@ -39,7 +37,6 @@ Download the sample `.E01` evidence files:
 
 ![Step 2 Screenshot]
 
----
 
 ### 3) (Optional) Mount the Disk Image
 Use OSFMount to mount the image as a virtual drive to view file structure.
@@ -89,9 +86,12 @@ timeline.txt
 
 Analyze the extracted data and prepare a report summarizing the evidence.
 
+---
 
 ## Result
 Sleuth Kit was successfully used to analyze the provided forensic disk image.
 The tools enabled partition inspection, recursive file listing, metadata analysis, and recovery of deleted artifacts.
 Optional timeline analysis helped in understanding event chronology.
 This demonstrates Sleuth Kit’s capability in real-world forensic workflows supporting evidence acquisition and investigation.
+
+---

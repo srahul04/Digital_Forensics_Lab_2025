@@ -4,9 +4,13 @@
 
 The aim of this experiment is to analyze email headers using Mail Header Analyzer (MHA) to detect email spoofing and determine the authenticity of emails by inspecting metadata and authentication results.
 
+---
+
 ## Description
 
 Email header analysis helps trace the path and legitimacy of an email from sender to receiver. Mail Header Analyzer (MHA) allows investigators to inspect key header fields, such as `From`, `Return-Path`, `Received`, `Message-ID`, and SPF/DKIM/DMARC results, to identify anomalies, irregular routing, and possible spoofing attempts. This experiment emphasizes the importance of verifying email origins to prevent phishing and unauthorized access.
+
+---
 
 ## Procedure
 
@@ -45,6 +49,10 @@ Email header analysis helps trace the path and legitimacy of an email from sende
 ![alt text](<Screenshots/Ex4-ss/Screenshot 2025-09-03 004448.png>)
 ![alt text](<Screenshots/Ex4-ss/Screenshot 2025-09-03 004528.png>)
 
+---
+
 ## Result
 
 The experiment showed that careful analysis of email headers using MHA can reveal signs of email spoofing. Suspicious patterns such as mismatched domains, unexpected IP addresses, or SPF/DKIM/DMARC failures were successfully identified, highlighting the effectiveness of header analysis in verifying email authenticity and preventing phishing attacks.
+
+---

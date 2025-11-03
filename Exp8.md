@@ -40,7 +40,6 @@ A higher score increases the probability that steganography is present, making i
    - **Terminal** (Linux/MacOS)
    > ![Screenshot](path/to/image6)
 
----
 
 ### **4) Run StegExpose on a Single Image**
 1. Execute:
@@ -89,3 +88,5 @@ Steganography likely present
 StegExpose successfully analyzed the provided images and produced confidence scores indicating the likelihood of hidden data.
 Images scoring above threshold (0.3) were identified as potentially containing steganographic content, supporting further forensic examination.
 Thus, StegExpose proved effective for rapid stego-image detection in forensic workflows.
+
+---

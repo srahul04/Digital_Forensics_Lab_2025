@@ -28,8 +28,7 @@ It is widely used in forensic workflows due to its portability, ease of use, and
 5. Enable USB Debugging on the Android phone:  
    `Settings → About Phone → Tap Build Number (7 times) → Developer Options → Enable USB Debugging`
    
-
----
+   
 
 ### 2) Connect the Android Device**
 1. Connect the Android phone to your computer via USB.
@@ -60,8 +59,11 @@ Review data and document useful artifacts.
 Uninstall AFLogical OSE using:
 Disconnect Android device safely.
 
+---
 
 ## Result
 Data from the Android device was successfully extracted using AFLogical OSE.
 CSV files containing contacts, SMS, MMS, and call logs were obtained and analyzed for relevant forensic information.
 This validated the effectiveness of AFLogical OSE for logical acquisition without accessing protected system partitions or requiring root access.
+
+---
