@@ -14,7 +14,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 ### 1. Installation
 - Download Autopsy from the [official website](https://www.autopsy.com/) and install it according to your operating system (Windows, Linux, or macOS).
 
-![Autopsy Download Page](media/image1.png)
+![Autopsy Download Page]
 
 ---
 
@@ -24,7 +24,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Enter the case name, location, case number, and examiner’s name.
 - Click **Next**.
 
-![New Case Setup](media/image2.png)
+![New Case Setup]
 
 ---
 
@@ -34,7 +34,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Configure ingest modules (e.g., File Type Identification, Keyword Search, Hash Lookup).
 - Click **Next** to begin analysis.
 
-![Add Data Source](media/image3.png)
+![Add Data Source]
 
 ---
 
@@ -42,7 +42,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Monitor the ingest progress in the lower-left corner.
 - Explore automatically categorized artifacts like web history, file system metadata, and emails using the Tree Viewer.
 
-![Ingest Progress](media/image4.png)
+![Ingest Progress]
 
 ---
 
@@ -52,7 +52,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Use the **Timeline** module to view events chronologically.
 - Perform **Hash Analysis** to identify known files.
 
-![Keyword Search](media/image5.png)
+![Keyword Search]
 
 ---
 
@@ -61,7 +61,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Choose the report format (HTML, CSV, Excel, etc.).
 - Select the content to include and export the report.
 
-![Generate Report](media/image6.png)
+![Generate Report]
 
 ---
 
