@@ -16,7 +16,7 @@ It is widely used in forensic workflows due to its portability, ease of use, and
 
 ## Procedure
 
-### 1 — Prepare Your Environment**
+### 1) Prepare Your Environment**
 1. Download AFLogical OSE from the GitHub repository or clone source files.
    
 2. Install Java (required to run the tool).
