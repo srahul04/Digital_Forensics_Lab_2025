@@ -16,9 +16,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 ### 1. Installation
 - Download Autopsy from the [official website](https://www.autopsy.com/) and install it according to your operating system (Windows, Linux, or macOS).
 
-![Autopsy Download Page]
-
-
+![alt text](<Screenshots/Ex5-ss/Screenshot 2025-11-04 210613.png>)
 
 
 ### 2. Starting a New Case
