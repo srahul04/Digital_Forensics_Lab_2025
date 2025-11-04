@@ -25,8 +25,10 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Enter the case name, location, case number, and examiner’s name.
 - Click **Next**.
 
-![New Case Setup]
+![alt text](<Screenshot 2025-11-04 210829.png>) 
 
+
+![alt text](<Screenshot 2025-11-04 211007.png>)
 
 
 
@@ -36,7 +38,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Configure ingest modules (e.g., File Type Identification, Keyword Search, Hash Lookup).
 - Click **Next** to begin analysis.
 
-![Add Data Source]
+![alt text](<Screenshot 2025-11-04 211042.png>)
+
 
 
 
@@ -45,6 +48,9 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Explore automatically categorized artifacts like web history, file system metadata, and emails using the Tree Viewer.
 
 ![Ingest Progress]
+![alt text](<Screenshot 2025-11-04 211645.png>)
+
+![alt text](<Screenshot 2025-11-04 212120.png>)
 
 
 
@@ -54,7 +60,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Use the **Timeline** module to view events chronologically.
 - Perform **Hash Analysis** to identify known files.
 
-![Keyword Search]
+![alt text](<Screenshot 2025-11-04 212315.png>)
 
 
 ### 6. Reporting
@@ -64,15 +70,14 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 
 ![Generate Report]
 
+![alt text](<Screenshot 2025-11-04 212402.png>) 
+
 
 ### 7. Case Closure
 - Close the case once the investigation is complete.
 - Archive all data and reports as per organizational policies.
 
-
-### 8. Advanced Features (Optional)
-- Add custom ingest modules for specialized analysis.
-- Configure multi-user access for team collaboration.
+![alt text](<Screenshot 2025-11-04 212345.png>)
 
 
 ## Result
