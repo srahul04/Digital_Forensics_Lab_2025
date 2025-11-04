@@ -27,27 +27,25 @@ Visit official Sleuth Kit website or provided Google Drive link.
 Install using Windows installer.
 
 
-![Step 1 Screenshot]
-
 
 ### 2) Acquire / Download Disk Image
 Download the sample `.E01` evidence files:  
 - `4Dell Latitude CPi.E01`  
 - `4Dell Latitude CPi.E02`
 
-![Step 2 Screenshot]
 
 
 ### 3) (Optional) Mount the Disk Image
 Use OSFMount to mount the image as a virtual drive to view file structure.
 
-![Step 3 Screenshot]
+![alt text](<Screenshot 2025-10-23 222452.png>)
 
----
+
 
 ### 4) Open Sleuth Kit in Terminal
 Navigate to the Sleuth Kit installation directory from CMD.
 
+![alt text](<Screenshot 2025-10-23 222446.png>)
 
 
 ### 5) Identify File System Type
@@ -57,6 +55,7 @@ Run fsstat to view filesystem information.
 ### 6) List Partitions
 Use mmls to list the partitions available in the disk image.
 
+![alt text](<Screenshot 2025-10-23 222608.png>)
 
 ### 7) List Files & Directories
 Recursively list file system entries using fls.
@@ -65,15 +64,14 @@ Recursively list file system entries using fls.
 ### 8) Recover Deleted Files
 Use icat to extract deleted files based on inode number.
 
+![alt text](<Screenshot 2025-10-23 222950.png>)
 
 ### 9) View File Metadata
 Use istat to inspect metadata of a specific file.
 
+![alt text](<Screenshot 2025-10-23 222954.png>)
 
-### 10) (Optional) Timeline Analysis
-Generate a body file
-Then generate timeline
-
+![alt text](<Screenshot 2025-10-23 224310.png>)
 
 ### 11) Document & Report Findings
 Gather all exported files:
