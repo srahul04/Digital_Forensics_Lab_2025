@@ -23,12 +23,14 @@ A higher score increases the probability that steganography is present, making i
  
 3. Place the `.jar` file in a working directory along with target images.
    
+   ![alt text](Screenshot_2025-07-30_01_06_49.png)
 
 ---
 
 ### **2) Prepare Images for Analysis**
 1. Collect all suspected images (formats supported: `.png`, `.jpg`, `.bmp`, etc.)
   
+  ![alt text](Screenshot_2025-10-27_14_25_04.png)
 
 ---
 
@@ -38,6 +40,8 @@ A higher score increases the probability that steganography is present, making i
 2. Open:
    - **Command Prompt** (Windows)  
    - **Terminal** (Linux/MacOS)
+
+   ![alt text](Screenshot_2025-10-27_14_25_07.png)
    
 
 
@@ -45,6 +49,10 @@ A higher score increases the probability that steganography is present, making i
 1. Execute:
    
    java -jar StegExpose.jar 
+
+   ![alt text](Screenshot_2025-10-27_14_25_09.png)
+
+   ![alt text](Screenshot_2025-10-27_14_25_40.png)
 
 
 ### 5) Analyze Output
@@ -56,6 +64,8 @@ Interpretation thresholds
 0.2 – 0.3 → Possibly hidden data
 > 0.3 → Steganography likely
 
+![alt text](<Screenshot 2025-10-27 235849.png>)
+
 
 ### 6) Batch Analysis (Folder)
 Analyze multiple images at once:
@@ -63,23 +73,17 @@ Analyze multiple images at once:
 java -jar StegExpose.jar <folder_path>
 
 
-### 7) Use Advanced Options (Optional)
-View available options:
-
-java -jar StegExpose.jar --help
-
 
 ### 8) Review Results
 Check suspect scores and flag images requiring deeper investigation.
 
-
 java -jar StegExpose.jar suspect_image.png
-
 
 Analyzing suspect_image.png...
 Result: 0.4
 Steganography likely present
 
+![alt text](Screenshot_2025-10-27_14_25_59.png)
 
 --- 
 
@@ -88,5 +92,6 @@ Steganography likely present
 StegExpose successfully analyzed the provided images and produced confidence scores indicating the likelihood of hidden data.
 Images scoring above threshold (0.3) were identified as potentially containing steganographic content, supporting further forensic examination.
 Thus, StegExpose proved effective for rapid stego-image detection in forensic workflows.
+
 
 ---

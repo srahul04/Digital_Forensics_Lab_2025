@@ -32,9 +32,9 @@ It is widely used in forensic workflows due to its portability, ease of use, and
 
 ### 2) Connect the Android Device**
 1. Connect the Android phone to your computer via USB.
-   
 2. Verify connection
 
+![alt text](<Screenshot 2025-10-27 232429.png>)
 
 ### 3) Extract Data Using AFLogical OSE
 Navigate to AFLogical OSE location.
@@ -43,21 +43,26 @@ Install AFLogical OSE APK
 
 Open AFLogical app → Select data types (contacts / SMS / MMS / call logs).
 
-Begin extraction → Tool saves CSV data to /sdcard/aflogical
+Begin extraction → Tool saves CSV data to /sdcard/aflogical 
+
+![alt text](<Screenshot 2025-10-27 232603-1.png>)
 
 
 ### 4) Transfer Extracted Data to PC
 Pull data using ADB:
 Verify .csv files in saved folder.
 
+![alt text](<Screenshot 2025-10-27 233156.png>)
 
 ### 5) Analyze Extracted Data
 Review data and document useful artifacts.
 
+![alt text](<Screenshot 2025-10-27 233749.png>)
 
 ### 6) Clean-up
 Uninstall AFLogical OSE using:
 Disconnect Android device safely.
+
 
 ---
 

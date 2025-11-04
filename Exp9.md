@@ -38,7 +38,7 @@ The hierarchical view and color-coded structure make it a powerful utility for s
 
 2. Observe columns such as PID, CPU, Memory usage, etc.  
 
-
+![alt text](<Screenshot 2025-10-28 000901.png>)
 
 
 ### 3) Identify Suspicious Processes
@@ -56,6 +56,7 @@ The hierarchical view and color-coded structure make it a powerful utility for s
 6. Check network activity:  
    Right-click → **Properties → TCP/IP**  
 
+![alt text](<Screenshot 2025-10-28 000919.png>)
 
 
 ### 4) Research Suspicious Processes
@@ -63,7 +64,8 @@ The hierarchical view and color-coded structure make it a powerful utility for s
 
 2. Check malware databases such as VirusTotal / ProcessLibrary.  
 
-
+![alt text](<Screenshot 2025-10-28 001049.png>)
+![alt text](<Screenshot 2025-10-28 001133.png>)
 
 
 ### 5) Kill or Suspend Suspicious Processes
@@ -73,6 +75,9 @@ The hierarchical view and color-coded structure make it a powerful utility for s
 
 3. Navigate to its path and delete the executable if confirmed malicious.  
 
+![alt text](<Screenshot 2025-10-28 001224.png>)
+
+![alt text](<Screenshot 2025-10-28 001305.png>)
 
 
 ### 6) Example — Detecting a Malicious Process
@@ -81,7 +86,8 @@ The hierarchical view and color-coded structure make it a powerful utility for s
 3. TCP/IP tab reveals suspicious outbound connections.  
 4. Online research identifies it as malware.  
 5. Process terminated and file removed.  
-   > ![Screenshot](path/to/image19)
+
+![alt text](<Screenshot 2025-10-28 001432.png>)
 
 ---
 
